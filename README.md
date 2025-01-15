@@ -1,4 +1,4 @@
-#  carsmakingclouds.com WordPress Themes
+#  carsmakingclouds.com WordPress Theme
 
 A wordpress theme for carsmakingclouds.com
 
@@ -10,7 +10,10 @@ Install the carzine folder in your wordpress /wp-content/themes/ folder
 
 ### Prerequisites
 
-PHP, MySQL
+PHP < 8.0, MySQL
+
+NOTE: contains depreciated code and breaks in PHP 8+
+
 
 ## Built With
 
